@@ -1,4 +1,4 @@
-#  Prédiction du statut de survie des patients atteints de cancer du sein
+#  Prediction de survie des patients atteint du cancer du sein 
 
 Ce projet vise à construire un modèle de machine learning capable de prédire le statut d'un patient atteint de cancer du sein (vivant ou décédé) à partir de caractéristiques cliniques.  
 
