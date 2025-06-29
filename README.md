@@ -52,3 +52,4 @@ FARIMATA WADE
 ## Déploiement
 
 Cette application est déployée sur Streamlit Cloud.
+Lien de l'application: https://predictioncancerdusein-932owh97axz7lyybkri7kz.streamlit.app/
